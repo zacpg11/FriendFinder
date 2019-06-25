@@ -54,22 +54,6 @@ var friends = [
       ]
     },
     {
-      name: "Sundance Kid",
-      photo: "https://en.wikipedia.org/wiki/Sundance_Kid#/media/File:Sundance_Kid_and_wife-clean.jpg",
-      scores: [
-        "3",
-        "2",
-        "1",
-        "3",
-        "2",
-        "1",
-        "3",
-        "2",
-        "1",
-        "4"
-      ]
-    },
-    {
       name: "Mick Jagger",
       photo: "https://pbs.twimg.com/profile_images/890611271028137984/_5xAXOi-.jpg",
       scores: [
